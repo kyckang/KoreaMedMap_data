@@ -1,0 +1,17 @@
+{
+  "schema": 1,
+  "generated_at": "2026-10-18 06:52 KST",
+  "pharmacies": 25363,
+  "hospitals": 78765,
+  "pharmacies_dropped": 72,
+  "hospitals_dropped": 241,
+  "pharmacies_verified": 25042,
+  "hospitals_verified": 78195,
+  "hospitals_with_specialty": 76118,
+  "holidays": 46,
+  "db_bytes": 28921856,
+  "gz_bytes": 10307170,
+  "sha": {
+    "med.db.bin": "d8a1090672c5aacd"
+  }
+}
